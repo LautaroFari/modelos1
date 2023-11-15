@@ -3,18 +3,18 @@
         "promo": [
             {
       		"nombre": "Paracetamol 500mg",
-                "precio": "1850",
-                "descuento": "1350"
+                "precio": "$ 1850",
+                "descuento": "$ 1350"
             },
             {
                 "nombre": "Ibuprofeno 400mg",
-                "precio": "1900",
-                "descuento": "1450"
+                "precio": "$ 1900",
+                "descuento": "$ 1450"
             },
             {
                 "nombre": "Omeprazol 20mg",
-                "precio": "3000",
-                "descuento": "2000"
+                "precio": "$ 3000",
+                "descuento": "$ 2000"
             }
         ]
     }

@@ -1,6 +1,6 @@
 {
-    "productos": {
-        "producto": [
+    "promos": {
+        "promo": [
             {
       		"nombre": "Paracetamol 500mg",
                 "precio": "1850",

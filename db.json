@@ -1,20 +1,55 @@
 {
-    "promos": {
-        "promo": [
+    "productos": {
+        "producto": [
             {
-      		    "nombre": "Paracetamol 500mg",
-                "precio": "1850",
-                "descuento": "1350"
+                "nombre": "Aspirina",
+                "tipo": "Medicamento",
+                "precio": "$ 2500"
             },
             {
-                "nombre": "Ibuprofeno 400mg",
-                "precio": "1900",
-                "descuento": "1450"
+                "nombre": "Vitaminas",
+                "tipo": "Suplemento",
+                "precio": "$ 3500"
             },
             {
-                "nombre": "Omeprazol 20mg",
-                "precio": "3000",
-                "descuento": "2000"
+                "nombre": "Antibiótico",
+                "tipo": "Medicamento",
+                "precio": "$ 5000"
+            },
+            {
+                "nombre": "Calcio",
+                "tipo": "Suplemento",
+                "precio": "$ 3200"
+            },
+            {
+                "nombre": "Crema Hidratante",
+                "tipo": "Crema",
+                "precio": "$ 6000"
+            },
+            {
+                "nombre": "Ibuprofeno",
+                "tipo": "Analgesico",
+                "precio": "$ 5700"
+            },
+            {
+                "nombre": "Jarabe para la Tos",
+                "tipo": "Medicamento",
+                "precio": "$ 4500"
+            },
+            {
+                "nombre": "Pasta de Dientes",
+                "tipo": "Higiene Bucal",
+                "precio": "$ 1300"
+            },
+            {
+                "nombre": "Hilo Dental",
+                "tipo": "Higiene Bucal",
+                "precio": "$ 900"
+            },
+            {
+                "nombre": "Pañuelos de Papel",
+                "tipo": "Papel",
+                "precio": "$ 500"
             }
         ]
     }
